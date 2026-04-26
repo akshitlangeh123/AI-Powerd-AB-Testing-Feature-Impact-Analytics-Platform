@@ -109,6 +109,14 @@ Data Generation → Databricks (Bronze)
 
 <img width="367" height="438" alt="Screenshot 2026-04-27 011914" src="https://github.com/user-attachments/assets/bb4f31e5-8a30-453a-8741-252425a13e76" />
 
+<img width="2531" height="1569" alt="Screenshot 2026-04-27 011857" src="https://github.com/user-attachments/assets/f5248380-d30a-4918-935a-88ae2cd9610d" />
+
+<img width="2545" height="1533" alt="Screenshot 2026-04-27 010746" src="https://github.com/user-attachments/assets/8217cc6d-7a7e-4133-b80a-fff058cbba5e" />
+
+<img width="2528" height="1478" alt="Screenshot 2026-04-27 010501" src="https://github.com/user-attachments/assets/e6f7a11e-6970-4249-8e06-bf8733854215" />
+
+<img width="2559" height="1368" alt="Screenshot 2026-04-27 003531" src="https://github.com/user-attachments/assets/b0a12824-d2ca-4df9-8f80-0b11d6f11767" />
+
 
 
 
