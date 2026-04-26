@@ -1,0 +1,16 @@
+version: 2
+
+models:
+  - name: experiment_metrics
+    description: Aggregated metrics per experiment variant
+    columns:
+      - name: variant
+        tests:
+          - not_null
+
+      - name: users
+        tests:
+          - not_null
+
+      - name: conversion_rate
+        description: Conversion rate per variant

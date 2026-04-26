@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: bronze
+    catalog: ab_testing_catalog
+    schema: bronze
+    tables:
+      - name: users

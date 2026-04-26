@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: experiment_lift
+    description: A/B test lift calculation
