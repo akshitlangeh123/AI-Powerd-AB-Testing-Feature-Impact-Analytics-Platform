@@ -79,53 +79,6 @@ Data Generation → Databricks (Bronze)
 
 ---
 
-## 📂 Project Structure
-
-```
-├── dbt_project/
-├── analysis/
-│   └── ab_test.py
-├── nl2sql_app/
-│   ├── app.py
-│   ├── llm.py
-│   ├── db.py
-│   └── prompt.py
-├── README.md
-```
-
----
-
-## ⚙️ Setup Instructions
-
-### 1. Clone repo
-
-```
-git clone <your-repo-link>
-cd ab-testing-analytics-platform
-```
-
-### 2. Install dependencies
-
-```
-pip install -r requirements.txt
-```
-
-### 3. Setup environment variables
-
-```
-DATABRICKS_HOST=...
-DATABRICKS_HTTP_PATH=...
-DATABRICKS_TOKEN=...
-```
-
-### 4. Run NL2SQL app
-
-```
-streamlit run nl2sql_app/app.py
-```
-
----
-
 ## 📈 Results
 
 * Variant B achieved ~22% lift over control
@@ -151,6 +104,13 @@ streamlit run nl2sql_app/app.py
 * Query validation & optimization layer
 
 ---
+
+## Output Screenshots
+
+<img width="367" height="438" alt="Screenshot 2026-04-27 011914" src="https://github.com/user-attachments/assets/bb4f31e5-8a30-453a-8741-252425a13e76" />
+
+
+
 
 ## 👤 Author
 
